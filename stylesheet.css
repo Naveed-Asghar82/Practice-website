@@ -1,0 +1,19 @@
+.header{
+display: flex;
+}
+.nav {
+    height: 100px;
+    font-weight: bold;
+    border: 1px solid black;
+    color: blue;
+    text-decoration-color: brown;
+}
+  
+
+ul li { 
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    line-height: 100px;
+
+}
